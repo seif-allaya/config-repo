@@ -1,0 +1,4 @@
+echo "generate a default Vagrant config and excute it "
+echo "There is a tuned version under ../templates folder "
+vagrant init debian/jessie64
+vagrant up
